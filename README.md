@@ -32,7 +32,7 @@ Create a bar chart showcasing the bottom 5 worst-selling pizzas based on the Rev
 
 SOFTWARE USED
 
-1. MS OFFICE/ EXCEL: VERSION 2021
-2. MS SQL SERVER: 19.0
-3. SQL SERVER MANAGEMENT STUDIO - 19.3
-4. POWER BI: DEC 2023 Version
+1. MS Office/ Excel: 2021
+2. MS SQL Server: 19.0
+3. SQL Server Management Studio: 19.3
+4. POWER BI: Sept 2023
